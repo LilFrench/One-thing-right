@@ -8,4 +8,4 @@ in tedious and boring. By giving you a reward (exp or items) for completing the 
 would hopefully not require that little extra dopamine from the game/site anymore.
 
 
-We are still beginner-level programmers, so if you have any questions or criticism, don't hesitate to contact us.
+We are still beginner-level programmers, so if you have any questions or remarks, don't hesitate to contact us.
